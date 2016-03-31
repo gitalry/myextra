@@ -585,7 +585,12 @@ Placeholder Sections
         font-size: 1.25rem;
     }
 }
-cd-placeholder-2 {
+.cd-section cd-container {
     border-top-width: medium;
     display: inline-block;
+}
+#young {
+    float: left;
+    border-image: 23px;
+    border-image-width: 2px;
 }
