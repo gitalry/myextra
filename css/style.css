@@ -216,7 +216,7 @@ Intro
     height: 300px;
     background: url(../img/Cows_2532445b.jpg) no-repeat center center;
     background-size: cover;
-    z-index: 2;
+    border-image-width: 60px z-index: 2;
 }
 #cd-intro #cd-intro-tagline {
     width: 90%;
