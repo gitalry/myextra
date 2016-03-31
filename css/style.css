@@ -594,3 +594,6 @@ Placeholder Sections
     border-image: 23px;
     border-image-width: 2px;
 }
+span {
+    font-size: 14;
+}
